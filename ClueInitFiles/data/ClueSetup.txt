@@ -1,0 +1,30 @@
+//Rooms and room cards
+Room, Market, M
+Room, Bakery, B
+Room, Forge, S
+Room, Academy, L
+Room, Castle, H
+Room, Plaza, O
+Room, Offices, G
+Room, Labratories, A
+Room, Bridge, R
+
+//Other spaces on the board
+Space, Unused, X
+Space, Walkway, W
+
+//People
+Person, Vessel, WHITE,7,0
+Person, Shiraxilon, YELLOW,5,24
+Person, Galaxy, BLUE,13,0
+Person, Diplo, RED,11,24
+Person, Rubix, GREEN,20,8
+Person, Dalsethel, PURPLE,20,16
+
+//Weapons
+Weapon, Symbol
+Weapon, Blade
+Weapon, Wand
+Weapon, Claws
+Weapon, Axe
+Weapon, Longbow
